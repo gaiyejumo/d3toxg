@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @d3toxg
-- 👀 I’m interested in programming, data analysis, web development, cyber security and software development.
-- 🌱 I’m currently learning cyber security
-- 💞️ I’m looking to collaborate on a project in Artificial intelligence.
+- 👋 Hi, I’m Gbenga, Guz man some call me.
+- 👀 I’m interested in programming, Data analysis, Web development, Cyber Security and Software Development.
+- 🌱 I’m currently Learning Web development.
+- 💞️ I’m looking forward to collaborate on a project in Artificial Intelligence and all do a project on web 3.0.
 - 📫 How to reach me gbenga.aiyejumo@gmail.com or +2348137781983.
 
 <!---
