@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, data analysis, web development, cyber security and software development.
 - 🌱 I’m currently learning cyber security
 - 💞️ I’m looking to collaborate on a project in Artificial intelligence.
-- 📫 How to reach me ...
+- 📫 How to reach me gbenga.aiyejumo@gmail.com or +2348137781983.
 
 <!---
 d3toxg/d3toxg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
