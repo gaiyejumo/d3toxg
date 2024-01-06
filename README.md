@@ -10,7 +10,7 @@
 
 📫 How to reach me gbenga.aiyejumo@gmail.com or +2348137781983.
 
-📚 Data Analytics Engineering Student 
+📚 Cloud Engineering Student 
 
 🎓 Ahmadu Bello University
 
